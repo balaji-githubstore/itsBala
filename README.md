@@ -1,4 +1,4 @@
-# itsBala
+# it's Bala
 
 An Experienced corporate trainer as a Testing Consultant with a demonstrated history of working in the information technology and services industry. Highly skilled in the Programming language - Java, Python, and C#. and automation tools such as Selenium, Appium, TDD, BDD, Cucumber, SpecFlow, SOAPUI, FLAUI, API automation, Postman, MSSql, MySql, PostGre. Excellent knowledge of complete phases of product development from Requirement gathering, Designing, Software development, Maintenance, Testing, and Application support. Worked with 100+ clients on upskilling the employees to build a high-level automation regression for web, mobile, and windows along with project management configuration such as AWS, GCP, Git, Jenkins, and JIRA. 
 
